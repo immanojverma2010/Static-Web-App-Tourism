@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+body{
+  margin: auto;
+  width: 100%;
+  overflow: auto;
+
+}
+.container{
+  width: 960px;
+  margin: 0 auto;
+
+}
+.header{
+  background: #6396bc;
+  border: 1px solid #ccc;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+.logo{
+  float: left;
+  font-family: 'Tangerine', serif;
+  font-size: 20px;
+  margin-left:64px;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+li{
+  list-style: none;
+  color: #fff;
+  float: left;
+  margin-left: 20px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.nav{
+  float: right;
+}
+
+section {
+
+  margin: auto;
+
+}
+div#full{
+  overflow: scroll;
+
+}
+div#one {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  float: left;
+  width: 81%;
+  height: 485px;
+
+  min-width: 1000px;
+  margin-top: 1px;
+  padding-top: 15px;
+
+}
+.column{
+  margin-left: 418px;
+
+}
+
+
+div#two {
+  font-family: 'Helvitica';
+  border-top-left-radius: 5px;
+  font-size: 9px;
+  margin-left: 75%;
+  height: 18px;
+  background: #F90;
+  margin-right: 90px;
+  margin-top: 102px;
+}
+div#twoa {
+
+  margin-left: 75%;
+  height: 140px;
+  background: black;
+  margin-right: 0px;
+  border-bottom-left-radius: 5px;
+}
+div#three {
+  border-top-left-radius: 5px;
+  font-family: 'Helvitica';
+  font-size: 9px;
+  margin-left: 75%;
+  height: 18px;
+  background: #F90;
+  margin-top: 10px;
+
+  margin-right: 90px;
+}
+div#threea {
+  margin-left: 75%;
+  height: 140px;
+  background: blue;
+  border-bottom-left-radius: 5px;
+
+}
+
+div#four {
+  border-top-left-radius: 5px;
+
+  font-family: 'Helvitica';
+  font-size: 9px;
+  margin-left: 75%;
+  height: 18px;
+  background: #F90;
+  margin-top: 10px;
+  margin-right: 90px;
+}
+div#foura {
+  margin-left: 75%;
+  height: 140px;
+
+  border-bottom-left-radius: 5px;
+}
+
+
+li#partner{
+  color: black;
+}
+div#partners{
+  width: 100%;
+  position: static;
+
+
+}
+div#social{
+  width: 100%;
+  position:absolute;
+  background: #6396bc;
+  margin-top: 73px;
+  height: 90%;
+  color: white;
+}
+div#info{
+  font-family: 'Helvitica';
+  font-size: 15px;
+  margin-top: 75px;
+  width: 50%;
+  margin-left: 27%;
+
+}
+div#full{
+
+  overflow: scroll;
+}
+ul#socialicons{
+  margin-left: 35%;
+
+}
